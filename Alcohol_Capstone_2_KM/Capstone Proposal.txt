@@ -1,0 +1,27 @@
+
+	According to the Centers for Disease Control (CDC, 2021), excessive alcohol usage causes over 178,000 deaths annually. This includes fatalities from conditions such as liver disease and various cancers, including breast cancer in women, colon cancer, liver cancer, and oral cavity cancer. Alcohol use is also associated with heart diseases like hypertension, stroke, and coronary heart illnesses. Additionally, it is a leading factor in more than 15,000 motor vehicle traffic crashes each year. 
+	Numerous factors contribute to alcohol use. Stress, a common part of life, triggers changes in bodily systems, with prolonged chronic stress causing significant harm (Rasheed, 2016). Lack of sleep (Blackwelder et al, 2021), lack of emotional support (Dvorak et al, 2014), and low income (Karriker-Jaffe et al, 2013) are a small number of factors that are often tied to chronic stress that may induce alcohol usage. 
+	As Blackwelder and colleagues (2021) found, lack of sleep was defined as less than 6 hours per night with self-reported findings of mental health statuses as “not good” over a 2-week period. Lack of sleep is just as dangerous as being under the influence of alcohol as response times, ability to deal with daily demands, and cognition are at a deficit.
+	Lacking emotional support causes a person to feel quite alone and isolated from a high-demanding world. Social resources differ for those in different income brackets, and oftentimes, low income groups lack support all around. It has been found that women in poverty who lack social support as under high stress tend to use alcohol as a means to manage stress (Moos et al, 1989; Johnson & Jennison, 1994; McCreary & Sadava, 2000; Piece et al, 1996).
+	This capstone aims to understand the relationships between the independent variables such as: lack of sleep, lack of emotional support, and income and their influences on alcohol usage. Whether all three factors heavily influence alcohol usage will be examined as well as the individual relationships between the variables. It will be interesting to examine if lack of emotional support and low income are highly related and therefore influence alcohol usage. 
+
+
+
+
+
+
+
+
+
+
+
+References
+Blackwelder, A., Hoskins, M., & Huber, L. (2021). Effect of Inadequate Sleep on Frequent Mental Distress. Preventing Chronic Disease, 18(18). https://doi.org/10.5888/pcd18.200573
+Centers for Disease Control and Prevention. Alcohol-Related Disease Impact application. Accessed Dec 8, 2024. https://nccd.cdc.gov/DPH_ARDI/default/default.aspx
+Dvorak, R. D., Sargent, E. M., Kilwein, T. M., Stevenson, B. L., Kuvaas, N. J., & Williams, T. J. (2014). Alcohol use and alcohol-related consequences: associations with emotion regulation difficulties. The American Journal of Drug and Alcohol Abuse, 40(2), 125–130. https://doi.org/10.3109/00952990.2013.877920
+Johnson KA, Jennison KM. Stressful loss and the buffering effect of social support on drinking behavior among African-Americans: results of a national survey. J Alcohol Drug Educ. 1994;39:1–24. 
+Karriker-Jaffe, K. J., C. M. Roberts, S., & Bond, J. (2013). Income Inequality, Alcohol Use, and Alcohol-Related Problems. American Journal of Public Health, 103(4), 649–656. https://doi.org/10.2105/ajph.2012.300882
+McCreary DR, Sadava SW. Stress, alcohol use and alcohol-related problems: the influence of negative and positive affect in two cohorts of young adults . J Stud Alcohol. 2000;61:466–74. doi: 10.15288/jsa.2000.61.466.
+Moos RH, Fenn CB, Billings AG, Moos BS. Assessing life stressors and social resources: applications to alcoholic patients . J Subst Abuse. 1989;1:135–52. doi: 10.1016/s0899-3289(88)80017-8.
+Peirce RS, Frone MR, Russell M, Cooper ML. Financial stress, social support, and alcohol involvement: a longitudinal test of the buffering hypothesis in a general population survey. Health Psychol. 1996;15:38–47. doi: 10.1037//0278-6133.15.1.38. 
+Rasheed, N. (2016). Prolonged Stress Leads to Serious Health Problems: Preventive Approaches. International Journal of Health Sciences, 10(1), V. https://pmc.ncbi.nlm.nih.gov/articles/PMC4791152/
